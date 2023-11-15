@@ -10,9 +10,9 @@
         <button @click="clearAll" class="operation">C</button>
         <button @click="deleteNumber" class="operation">&#9003;</button>
 
-        <button @click="operator" class="operation" value="inverse"><sup>1</sup>/<sub>x</sub></button>
-        <button @click="operator"  class="operation" value="square">x<sup>2</sup></button>
-        <button @click="operator"  class="operation" value="sqrt"><sup>2</sup>√x</button>
+        <button @click="operator" class="operation" value="inverse">1/x</button>
+        <button @click="operator"  class="operation" value="square">x2</button>
+        <button @click="operator"  class="operation" value="sqrt">2√x</button>
         <button @click="operator"  class="operation" value="÷">÷</button>
 
         <button @click="append('7')">7</button>
