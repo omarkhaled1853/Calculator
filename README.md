@@ -26,8 +26,3 @@ Welcome to the Calculator project. This project aims to provide a simple yet fun
 - Perform basic arithmetic operations using the buttons.
 - Utilize additional functionalities such as square root, square and inverse.
 - Memory functions can be accessed through the memory buttons.
-
-## Future Enhancements
-- Enhance UI design
-- Make responsive design for calculator
-- Make calculator more efficient in it's operations
